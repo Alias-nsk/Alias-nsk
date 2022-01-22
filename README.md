@@ -1,8 +1,8 @@
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/константин-полуботонов-08881a228/">
+<a href="https://www.linkedin.com/in/константин-полуботонов-08881a228/" target="_blank">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Alias_nsk">
+<a href="https://t.me/Alias_nsk" target="_blank">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
